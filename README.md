@@ -17,3 +17,6 @@ Tecnologias Utilizadas:
 Python: Linguagem de programação principal utilizada no desenvolvimento do projeto.
 Selenium: Biblioteca utilizada para automatizar a interação com a aplicação web.
 Pandas: Biblioteca utilizada para manipulação de dados, especialmente para leitura de planilhas em formato Excel.
+
+Guia de uso:
+Caso deseje executar o programa para verificar o funcionamento, basta salvar o executavel app.exe e a planilha empresas.xlsx na mesma pasta. Após isto basta executar o aplicativo. 
