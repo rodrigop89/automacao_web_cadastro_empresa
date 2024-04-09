@@ -20,3 +20,4 @@ Pandas: Biblioteca utilizada para manipulação de dados, especialmente para lei
 
 Guia de uso:
 Caso deseje executar o programa para verificar o funcionamento, basta salvar o executavel app.exe e a planilha empresas.xlsx na mesma pasta. Após isto basta executar o aplicativo. 
+Para interromper o funcionamento do executavel, basta abrir a janela e pessionar as teclas CTRL + C
